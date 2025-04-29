@@ -1,6 +1,10 @@
-# Tonic Starter
+---
+title: Home
+---
 
-A sample [Jekyll](https://jekyllrb.com) theme designed to be a starting point for all [Tonic](https://github.com/hackclub/tonic) submissions.
+# Purp Theme
+
+A very cool [Jekyll](https://jekyllrb.com) theme designed to be a starting point for all [Tonic](https://github.com/hackclub/tonic) submissions.
 
 This template is intentionally left incomplete; users should play through Tonic to learn how to make a full-featured theme.
 
